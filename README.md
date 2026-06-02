@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**sumitbhskr/sumitbhskr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Sumit Bhaskar
 
-Here are some ideas to get you started:
+💻 Full Stack Developer | MERN Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Building Modern Web Applications
+
+## 🛠️ Skills
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- JavaScript
+- HTML5
+- CSS3
+- Git & GitHub
+
+## 🌱 Currently Learning
+- Advanced MERN Stack
+- Next.js
+- System Design
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/sumit-bhaskar-a44367384
+
+## 🚀 Goals
+- Build scalable web applications
+- Improve problem-solving skills
+- Grow as a Full Stack Developer
